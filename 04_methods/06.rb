@@ -1,0 +1,1 @@
+#The error is due to the method 'calculate_product' apparently requiring two parameters or arguments and the method call only provided one.
