@@ -1,0 +1,1 @@
+#<Proc:0x007fea9b84d9c8@(irb):4>  A Proc object is returned

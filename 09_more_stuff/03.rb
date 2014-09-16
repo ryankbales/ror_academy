@@ -1,0 +1,1 @@
+#Exception handling is a built in fallback of sorts, so that when an error is encountered in the code the program won't be exited and will fallback to a plan B and not stop the program from running.
