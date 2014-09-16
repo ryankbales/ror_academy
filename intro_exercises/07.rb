@@ -1,0 +1,1 @@
+#An array is an ordered list with each value labeled by index, whereas a has uses the key/value method of data organization.
