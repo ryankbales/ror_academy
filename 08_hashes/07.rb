@@ -1,0 +1,1 @@
+#my_hash uses the new ruby 1.9 syntax whereas the my_hash2 uses the old syntax
